@@ -3,3 +3,16 @@ uvicorn
 pandas
 python-dotenv
 psycopg2-binary
+requests
+
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-chroma
+
+chromadb
+sentence-transformers
+torch
